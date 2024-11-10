@@ -1,0 +1,5 @@
+FINAL PROJECT: 
+
+Step 1: Labeling
+video link: - https://github.com/AarohiSingla/Auto-Annotation-Using-YOLOv8-and-SAm/blob/main/yolov8_SAM_auto_annotate.ipynb
+ - https://www.youtube.com/watch?v=0nr6TPKlrN0
