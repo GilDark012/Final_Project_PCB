@@ -27,7 +27,7 @@
             <input class="btn btn-primary mt-3" type="submit" value="Predict Image">
         </form>
 
-        <hr class="my-4">
+        <!-- <hr class="my-4"> -->
 
         <!-- Retrain Model Button -->
         <form class="text-center" action="{{ url_for('retrain_model') }}" method="POST">
@@ -38,8 +38,8 @@
         <hr class="my-4">
     
         <!-- Predict Label -->
-        <form action="{{ url_for('predict_label') }}" method="POST">
-          <button class="btn btn-warning mt-3" type="submit">Predict Label</button>
+        <form class="text-center" action="{{ url_for('predict_label') }}" method="POST">
+          <button class="btn btn-outline-success mt-3" type="submit">Predict Label</button>
         </form> 
     </div>
 
